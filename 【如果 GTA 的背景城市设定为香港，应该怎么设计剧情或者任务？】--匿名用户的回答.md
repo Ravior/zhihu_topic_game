@@ -1,0 +1,15 @@
+## 如果 GTA 的背景城市设定为香港，应该怎么设计剧情或者任务？
+
+作者: 匿名用户&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赞同: 504
+
+
+<ol><li><b>无痛的人流</b>：在半小时内从深圳火车站经罗湖口岸进入香港并乘坐东铁线达到接头地点香港上水火车站。<img src="http://pic4.zhimg.com/18b4c414c9d138d630e3c237becb4f27_b.jpg" data-rawwidth="640" data-rawheight="359" class="origin_image zh-lightbox-thumb" width="640" data-original="http://pic4.zhimg.com/18b4c414c9d138d630e3c237becb4f27_r.jpg"></li><li><b>上水寻宝</b>：一小时内在上水火车站附近买到购买到20罐美赞臣三号奶粉并雇用不多于三名水货客将这些奶粉带回深圳交给等在罗湖口岸广场的同伙。<img src="http://pic1.zhimg.com/8a46ff6c5c3433002a3ffff69168e158_b.jpg" data-rawwidth="600" data-rawheight="400" class="origin_image zh-lightbox-thumb" width="600" data-original="http://pic1.zhimg.com/8a46ff6c5c3433002a3ffff69168e158_r.jpg"></li><li><b>盗木笔记</b>：前往中文大学，在校园内找到土沉香树，在不惊动校园保安的情况下趁黑夜斩开树干，等到流出树脂之后再整棵斩下，搬上停在校外的卡车上，并将其运到海边等待走私船接应。<img src="http://pic4.zhimg.com/fa763b648c1d30615a37acf209b7f44f_b.jpg" data-rawwidth="640" data-rawheight="480" class="origin_image zh-lightbox-thumb" width="640" data-original="http://pic4.zhimg.com/fa763b648c1d30615a37acf209b7f44f_r.jpg"></li><li><b>清道夫</b>：在元朗反内地游客的示威活动现场，打组织领袖的电话，通过声音在人群中找到其位置并用刀将其暗杀，在人群混乱之时安全撤走。<img src="http://pic4.zhimg.com/27c2d8f08273eabdf6ec0c7f5914827f_b.jpg" data-rawwidth="608" data-rawheight="405" class="origin_image zh-lightbox-thumb" width="608" data-original="http://pic4.zhimg.com/27c2d8f08273eabdf6ec0c7f5914827f_r.jpg"></li><li><b>棱镜</b>：在美丽华酒店门口等候一美国情报组织前雇员S，待其与保镖出门时射杀其保镖，绑架S，飙车甩掉香港警察的追捕之后，将S带至中环坚尼地道42号。<img src="http://pic2.zhimg.com/3c921db3060fdc17cbe4b86715da09a1_b.jpg" data-rawwidth="640" data-rawheight="480" class="origin_image zh-lightbox-thumb" width="640" data-original="http://pic2.zhimg.com/3c921db3060fdc17cbe4b86715da09a1_r.jpg"></li><li><b>机不可失</b>：于新版aPhone发售当日在旺角先达广场门口伏击（不能惊动警方），抢夺三种颜色x三种容量x两种尺寸共计18款各2部手机之后，于当天下午5点之前绕过海关渡过深圳河抵达华强北。<img src="http://pic3.zhimg.com/69781bfade8f326afe7bb67df3aa174a_b.jpg" data-rawwidth="608" data-rawheight="390" class="origin_image zh-lightbox-thumb" width="608" data-original="http://pic3.zhimg.com/69781bfade8f326afe7bb67df3aa174a_r.jpg"></li><li><b>千金换千金</b>：潜入清水湾豪宅，静待屋主女儿回家后将其绑架至隐蔽处，打电话给其家人索要赎金，在获得赎金后摆脱警方追捕。<img src="http://pic4.zhimg.com/ce4ebb765588f67ebf41e734a0c3e0ff_b.jpg" data-rawwidth="555" data-rawheight="336" class="origin_image zh-lightbox-thumb" width="555" data-original="http://pic4.zhimg.com/ce4ebb765588f67ebf41e734a0c3e0ff_r.jpg"></li><li><b>智取押运车</b>：在市区寻找适当位置用狙击枪击毁行进中的银行押运车后门，待现金散落出来之后迅速赶在路人之前捡走并逃离现场。<img src="http://pic4.zhimg.com/bcfce268c57bb0f87018b8c84370df3f_b.jpg" data-rawwidth="704" data-rawheight="395" class="origin_image zh-lightbox-thumb" width="704" data-original="http://pic4.zhimg.com/bcfce268c57bb0f87018b8c84370df3f_r.jpg"></li></ol>
+
+
+
+编辑于 2015-05-11
+
+
+
+---
+原问链接: [http://www.zhihu.com/question/28420374](http://www.zhihu.com/question/28420374)

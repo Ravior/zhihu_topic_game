@@ -1,0 +1,15 @@
+## 如何看待百度贴吧有人举报国行 PS4 不锁区？
+
+作者: 匿名用户&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赞同: 2088
+
+
+这种行为没啥好洗地的，这人就是既坏也蠢。<br>就像40年北京一个饭店老板好心收留了几个抗日士兵，伪军听到一些风声，但也睁只眼闭只眼，大家都心照不宣，某天一个XX说这不是违反日军规定的吗，然后去宪兵队举报，还义正严辞的跟街坊说“要是没违反规定，我举报也没用啊.”<br>这人蠢吗，蠢<br>这人坏吗，坏<br>这事儿做错了吗，错了<br><br>以上得死<br><br>——————————————————————————————————————<br>也许有人会说，我不玩主机，也许有人说反正我也不会买PS，跟我有毛关系，那我问你，你希望有一天能玩上国产的优质大型游戏吗？<br>也许有人会问，这有嘛关系。<br>为何大家对PS4是否锁区如此关注？因为如果真的不锁区，意味着大量高质量的游戏，能够运行在国行的机器上，这意味着之前大家买水货时的担惊受怕不复存在。也意味着更多的机器能够进入到游戏玩家的手中，能让家用机市场得到长足的发展。当这一块市场变得足够大，自然会有厂商开始研发这个平台的游戏，从主机到PC，慢慢地好游戏会越来越多，我也相信国产游戏厂商，也能在这样的市场环境下，一步一步缩短与国际大厂游戏的距离。而这一切，都是需要那堵墙被一点一点拆掉，这一次第一块砖眼见就要抽出来，被这熊孩子一脚又给塞回去了，我也真的很想骂人。<br><br>前几天我刚组了台新电脑，终于装上COD10，把游戏玩上了，打完序章，我关掉游戏，发了一个朋友圈：感觉国内游戏已经差了国外3A游戏一个世代了，而且差距正在越来越大，真不知国内何时才能有真正优质的大作啊。<br>大家一定喜欢老滚，喜欢辐射吧<a href="http://www.zhihu.com/question/24212466" class="internal">如何对比评价经典单机 RPG 游戏《上古卷轴》和《辐射》系列？ - 单机游戏</a><br>大家也肯定对GTA5赞不绝口<a href="http://zhuanlan.zhihu.com/necromanov/19656273" class="internal">描绘群像：侠盗猎车GTA5（Grand Theft Auto 5） - 旗舰评论——战略航空军元帅的旗舰 - 知乎专栏</a><br>大家也曾喜爱WITCHER里帅帅的刀疤脸主角<a href="http://zhuanlan.zhihu.com/necromanov/19675295" class="internal">有那么一群天真的波兰人：一个名为Witcher的童话故事 - 旗舰评论——战略航空军元帅的旗舰 - 知乎专栏</a><br>大家也曾把The Last Of Us以及Bioshock Infinite玩了一遍又一遍<a href="http://zhuanlan.zhihu.com/necromanov/19663362" class="internal">叙事的技术：美国末日（the Last of Us）和生化奇兵无限（Bioshock Infinite） - 旗舰评论——战略航空军元帅的旗舰 - 知乎专栏</a><br>大家也喜欢从各种名胜古迹纵身一跃的感觉<a href="http://www.zhihu.com/question/23546055" class="internal">如何评价刺客信条系列？ - 游戏</a><br>大家也曾YY过，如果是中国风的刺客信条将会是如何<a href="http://www.zhihu.com/question/25572702" class="internal">《刺客信条》会不会出一个东亚世界大明的版本？ - 游戏</a><br>这些都是我们的梦啊，这都是我们这些游戏玩家的一个美梦啊，但是现在现实呢<a href="http://www.zhihu.com/question/25818982" class="internal">知乎 - 与世界分享你的知识、经验和见解</a><br><br>这一切的改变，都需要一步一步的来，然而大家梦寐以求的第一步，刚要迈出去，看样子又得缩回来了（最新消息是，要锁区了），这怎能不让人生气，怎能不让人愤慨！！！<br>对这个刘睿哲，如果让我碰上他，我也不知道我会做出什么事情，虽然我知道，那样不对，但是从个人角度来说，我真的很生气啊！！！！！<br><br>——————————————————————<br>希望某一天，我们去掉国产光环以后，仍然发自内心的愿意购买国产游戏<br><img src="http://pic3.zhimg.com/0a76369d95e476dd7be09ac9b8671c86_b.jpg" data-rawwidth="2448" data-rawheight="3264" class="origin_image zh-lightbox-thumb" width="2448" data-original="http://pic3.zhimg.com/0a76369d95e476dd7be09ac9b8671c86_r.jpg"><img src="http://pic4.zhimg.com/18bec6a1cc9c14b3d199a22ceabe269f_b.jpg" data-rawwidth="3063" data-rawheight="2143" class="origin_image zh-lightbox-thumb" width="3063" data-original="http://pic4.zhimg.com/18bec6a1cc9c14b3d199a22ceabe269f_r.jpg"><img src="http://pic2.zhimg.com/183ad8a3841df86e2231ddb3a4a5b4a9_b.jpg" data-rawwidth="2448" data-rawheight="3264" class="origin_image zh-lightbox-thumb" width="2448" data-original="http://pic2.zhimg.com/183ad8a3841df86e2231ddb3a4a5b4a9_r.jpg"><br><br>最后的最后，希望大家别激动啊……要是3大妈之类的都没了，大家天天玩扫雷吗？冤有头债有主啊
+
+
+
+编辑于 2015-01-09
+
+
+
+---
+原问链接: [http://www.zhihu.com/question/27422025](http://www.zhihu.com/question/27422025)

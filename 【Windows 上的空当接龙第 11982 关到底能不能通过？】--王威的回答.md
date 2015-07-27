@@ -1,0 +1,15 @@
+## Windows 上的空当接龙第 11982 关到底能不能通过？
+
+作者: [王威](http://www.zhihu.com/people/wang-wei-59-48)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赞同: 991
+
+
+非常感谢各位参与讨论和点赞的朋友！<br>由于第一次回答时候是比较随意的写出了这些东西，在再看过一次之后我发现这里有一些错误。同时有朋友也提到了这个11982因何无解的问题，因此我对这个回答做了一部分修改和增添，希望能对对此问题感兴趣的朋友有所帮助。<br>以下有些内容来源于国外的空当接龙大牛加资深研究者Michael Keller在过去近15年中撰写而成的 <a href="http://solitairelaboratory.com/fcfaq.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">FreeCell FAQ and links<i class="icon-external"></i></a>，其实这个FAQ已被很多空当接龙的国外同好奉为“圣典”，推荐各位朋友读读这个含有很多典故和有趣信息的长FAQ。<br><br>————————————————————————————————-——————————<br><br>11982是一个无解局，至少在Windows的标准8列+4中转单元下。<br>最早在Windows 3.1中捆绑的空当接龙程序的局数是32000；进入Windows 95版中的也是一样。空当接龙这一游戏能够得到大众欢迎，与Windows 95的成功密不可分。游戏开发者Jim Horne曾在帮助文件中留下了一句著名论断:<br>“尽管未经证实，但请您相信:所有的牌局最终都能解开。”<br>虽然其1-32000的编号使得许多玩家进行了从1开始的顺序解局玩法，但由于32000局仍然算一个“庞大”的数字，对于单个的普通玩家来说这个问题相对难以找出答案。直到1994年年中，一位空当接龙发烧友Dave Ring借助当时盛行的Usenet新闻组，发起了一场寻找答案的活动。<br>他召集到了一些和他一样的爱好者，最开始每人分配100局，然后将这些参与玩家提交的所不能解出的局整理后，再交给另一批水平更高的玩家试图解出。参加者完成自己的100局后如果有兴趣，Dave Ring将会再给他/她分配100局……整个活动前前后后共有100多人参加，历时1年左右。<br>最终在这32000局中只有一局是所有参加者，包括Dave Ring本人都未能解开的:<br>11982。<br>再后来起码有近20人在4-5年的时间里相继玩过了整个32000局后，都报告称11982是不能解出的。在21世纪以来依赖电脑程序的分析中，11982也一次次击破了研究者们的希望。<br><br>——————————————————————————————————-————————<br><br>11982用5个中转单元才能解开。<br>以下是我自己玩出来的一个解法，使用的程序是由Adrian Ettlinger开发的开源空当接龙游戏<a href="http://solitairelaboratory.com/fcpro.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">FreeCell Pro<i class="icon-external"></i></a>。这个程序是一个研究向的作品，有一项重要功能就是它可以改变在游戏中的从0个到9个的中转单元数。此处使用的a,b,c,d,e代表中转单元；1,2,3,4,5,6,7,8代表从左至右的列；k代表回收单元。<br>2a 2b 2c 2d 2e 27 78 c8 4k 12 <br>62 7k a4 7a 37 73 71 17 d1 5c <br>5d 56 57 57 b7 17 12 1b 1k 32 <br>87 8c 84 82 d2 32 a1 3d 31 e4 <br>d4 34 65 6a 61 51 84 83 42 a5 <br>58 48 43 41 4k 45 64<br><br>——————————————————————————————————————————<br><br>Freecell Pro的最后一个版本6.5中包含了3款不同的Solver，分别为Don Woods、Shlomi Fish和Tom Holroyd开发。而每一次在利用Options→Solve功能后，Freecell Pro都会在根目录下生成一个solution.txt作为Solver工作日志；在这个文档中就有使用Solver试图解开某一局的计算次数信息。<br>值得一提的是，这3款Solver的一个共性特点是其采用的方式都是穷举法推算，因此受内存容量限制，如果计算过的总解法数超过内存存储空间的话就会报告“Intractable”；但是“Intractable”并不代表推算局是无解的。<br><img src="http://pic2.zhimg.com/e0c3d381a562e380bc713ff6c398bbf9_b.jpg" data-rawwidth="293" data-rawheight="187" class="content_image" width="293"><br>那么这三款Solver对于11982的解局报告结果如何？<br>Don Woods的Solver报告如下：<br>Game #11982  Impossible.  Generated    78983 Hands.  Elapsed Seconds: 1<br>即计算了78983次之后报告无解。<br>Shlomi Fish的Solver报告如下：<br>Game #11982  Impossible. 35264 Iterations  Elapsed Seconds: 1<br>它在35264次计算后也报告了无解。<br>Tom Holroyd的Patsolve报告如下：<br>Game #11982  Impossible.   Elapsed Seconds: 0<br>虽然Patsolve在导出的solution.txt中并不提供究竟进行了多少次计算的信息，但是在对状态栏观察的过程中大致可以发现Patsolve在计算了约8万5千次后最终也报告无解。
+
+
+
+编辑于 2015-04-22
+
+
+
+---
+原问链接: [http://www.zhihu.com/question/27211554](http://www.zhihu.com/question/27211554)

@@ -1,0 +1,15 @@
+## 有哪些好玩的政治游戏？
+
+作者: [skylocker](http://www.zhihu.com/people/skylocker)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赞同: 797
+
+
+终于找到机会卖安利了！！<br>P社四萌知名度比较高，新手友好度又令人发指，这里就不再提了。<br>能想到的最为符合题主描述的游戏：<br><b>民主制度3</b><br>1. 完全内政，没有战争元素。<br>2. 意识形态、经济政策、失业率、福利等等一切你能想到的与内政相关的要素，这款游戏<br>统统都有。<br><br>不过需要提醒的是，这与题主你之前玩过的文明、三国志、信长系列都完全不同（在我看来题主提到的和三款游戏应该还算不上纯粹政治类），甚至跟大部分游戏都不同，它直观上最大的特点是：<br><b>没有动画</b>，<b>纯粹是系统性的，只有文字和图表。</b><br><br>接下来详细介绍一下：<br> 《民主制度3》是Positech制作并发行的一款pc端策略类游戏。游戏的主题就是玩家扮演一名政策制定者，通过制定政策影响经济、民意等各方面。<br>这是游戏的开头界面。<br><img src="http://pic1.zhimg.com/333402047946d9bab5250b9d8b3822b4_b.jpg" data-rawwidth="1366" data-rawheight="763" class="origin_image zh-lightbox-thumb" width="1366" data-original="http://pic1.zhimg.com/333402047946d9bab5250b9d8b3822b4_r.jpg">正式开始游戏，首先会进入国家选择界面，你需要选择一个国家开始游戏，每个国家基本数据有所不同（人口、GDP、宗教等等），类似于文明系列里选择文明。之后还会有一些基本选项。<br><img src="http://pic4.zhimg.com/c61b0c4f343276017d481dbc8e5cb6a3_b.jpg" data-rawwidth="1356" data-rawheight="760" class="origin_image zh-lightbox-thumb" width="1356" data-original="http://pic4.zhimg.com/c61b0c4f343276017d481dbc8e5cb6a3_r.jpg">选择完毕之后，总统（首相）大人你就可以开始你胜选之后的任期啦！下图六个数据也基本就是游戏中最为重要，需要通过不同方式提升的六个数据，不同国家初始数值会有所不同。<br><img src="http://pic2.zhimg.com/ebb4d4abb86655c4c8352921de7d7d05_b.jpg" data-rawwidth="1320" data-rawheight="687" class="origin_image zh-lightbox-thumb" width="1320" data-original="http://pic2.zhimg.com/ebb4d4abb86655c4c8352921de7d7d05_r.jpg">下图就是游戏主界面，顶部有国家收支的一些基本数据，可以点入看饼状图分布。最中间是社会不同阶层、角色对政府的满意度，周围大大小小的圆圈就是需要调整的政策啦，每一种政策都会对不同角色的满意度或是国家数据造成影响。<br><img src="http://pic4.zhimg.com/a1bac99422451aa52efe76a920576f9b_b.jpg" data-rawwidth="1353" data-rawheight="762" class="origin_image zh-lightbox-thumb" width="1353" data-original="http://pic4.zhimg.com/a1bac99422451aa52efe76a920576f9b_r.jpg">举个栗子，下图就是对退休人群(Retired）支持率会造成影响的一些政策，绿线表示正相关，红线表示负相关。比如提高退休金会提高退休人群的支持率。<br><img src="http://pic4.zhimg.com/248b9eb96a95d521e85ef283d5e32c83_b.jpg" data-rawwidth="1353" data-rawheight="760" class="origin_image zh-lightbox-thumb" width="1353" data-original="http://pic4.zhimg.com/248b9eb96a95d521e85ef283d5e32c83_r.jpg">点进每一个政策会看到该政策具体影响，再举个栗子，下图是CCTV Cameras（监控摄像）这项政策的影响，它会招致自由主义者反对和保守主义者的支持，好处是降低犯罪率，坏处是增加支出。<br><img src="http://pic3.zhimg.com/8f27230b13dabfa7aca2b0b5093444ee_b.jpg" data-rawwidth="1314" data-rawheight="753" class="origin_image zh-lightbox-thumb" width="1314" data-original="http://pic3.zhimg.com/8f27230b13dabfa7aca2b0b5093444ee_r.jpg"><br>不同的政策之间互相也会产生影响，如何在这种动态互动中把握好平衡，让国家稳步前进，同时维持好民意支持率，保证连任，就是这个游戏的主旨啦。<br><br><br>最后，推荐B站UP主黑桐谷歌的介绍视频：<br><a href="http://www.bilibili.com/video/av957056/index_2.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">黑桐谷歌【冥煮制度3】看文盲如何当总统(2)<i class="icon-external"></i></a><br>手头没有游戏，截图都来自B站。
+
+
+
+编辑于 2014-12-04
+
+
+
+---
+原问链接: [http://www.zhihu.com/question/26924795](http://www.zhihu.com/question/26924795)
